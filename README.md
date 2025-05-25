@@ -19,7 +19,7 @@
 - `README.md`：项目说明文档
 
 ## 使用方法
-1. 将html文件中所有‘你的名字’和‘梦角哥’都修改为你想要的名字，将你的API密钥填入"Authorization"，免费API密钥可以从https://github.com/chatanywhere/GPT_API_free获取
+1. 将html文件中所有‘你的名字’和‘梦角哥’都修改为你想要的名字，将你的API密钥填入"Authorization"，免费API密钥可以从https://github.com/chatanywhere/GPT_API_free   获取
 2. 在文件管理中点击打开，在浏览器中即可体验功能。
 
 ## 注意事项
